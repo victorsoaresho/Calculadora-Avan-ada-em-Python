@@ -21,4 +21,4 @@ Este projeto está sob a licença MIT
 
 
 ---
-⌨️ com ❤️ por [Victor](https://gist.github.com/victorsoaresho) 😊
+⌨️ com ❤️ por [Victor](https://github.com/victorsoaresho) 😊
